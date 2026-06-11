@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large raw data (excluded from repo)
+data/
+
+# Local Claude Code settings
+.claude/settings.local.json

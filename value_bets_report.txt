@@ -1,0 +1,47 @@
+================================================================================
+IPL VALUE BETS - TODAY'S OPPORTUNITIES
+================================================================================
+
+Found 8 value bet(s):
+
+     player    market  model_prob  implied_prob edge_pct  book_odds  fair_odds kelly_pct
+T Natarajan wickets_2      0.3989        0.2857    11.3%       3.50       2.51     1.58%
+   N Burger wickets_2      0.4658        0.3636    10.2%       2.75       2.15     1.61%
+T Natarajan wickets_3      0.1892        0.1000     8.9%      10.00       5.28     0.99%
+  Y Jaiswal   runs_10      0.9024        0.8197     8.3%       1.22       1.11     4.59%
+   MA Starc wickets_3      0.2216        0.1429     7.9%       7.00       4.51     0.92%
+ Axar Patel wickets_2      0.2771        0.2309     4.6%       4.33       3.61     0.60%
+  Y Jaiswal   runs_20      0.7050        0.6667     3.8%       1.50       1.42     1.15%
+    S Rizvi   runs_70      0.1480        0.1111     3.7%       9.00       6.75     0.42%
+
+================================================================================
+SUGGESTED MULTIS (Low-Correlation Legs)
+================================================================================
+
+Multi #1 (2 legs) — Combined odds: 4.27
+  Model prob: 0.3600 | Implied: 0.2342 | Edge: 0.1258
+  • T Natarajan — wickets_2 @ 3.5 (edge: 11.3%)
+  • Y Jaiswal — runs_10 @ 1.22 (edge: 8.3%)
+
+Multi #2 (2 legs) — Combined odds: 3.35
+  Model prob: 0.4203 | Implied: 0.2981 | Edge: 0.1223
+  • N Burger — wickets_2 @ 2.75 (edge: 10.2%)
+  • Y Jaiswal — runs_10 @ 1.22 (edge: 8.3%)
+
+Multi #3 (2 legs) — Combined odds: 8.54
+  Model prob: 0.2000 | Implied: 0.1171 | Edge: 0.0829
+  • Y Jaiswal — runs_10 @ 1.22 (edge: 8.3%)
+  • MA Starc — wickets_3 @ 7.0 (edge: 7.9%)
+
+Multi #4 (3 legs) — Combined odds: 11.74
+  Model prob: 0.1677 | Implied: 0.0852 | Edge: 0.0825
+  • T Natarajan — wickets_2 @ 3.5 (edge: 11.3%)
+  • N Burger — wickets_2 @ 2.75 (edge: 10.2%)
+  • Y Jaiswal — runs_10 @ 1.22 (edge: 8.3%)
+
+Multi #5 (2 legs) — Combined odds: 9.62
+  Model prob: 0.1858 | Implied: 0.1039 | Edge: 0.0819
+  • T Natarajan — wickets_2 @ 3.5 (edge: 11.3%)
+  • N Burger — wickets_2 @ 2.75 (edge: 10.2%)
+
+================================================================================

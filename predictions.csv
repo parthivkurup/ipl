@@ -1,0 +1,35 @@
+match_number,date,team1,team2,venue,team1_elo,team2_elo,team1_home,team2_home,team1_season_wr,team2_season_wr,team1_win_prob,team2_win_prob,predicted_winner,confidence
+37,2026-04-26,Chennai Super Kings,Gujarat Titans,MA Chidambaram Stadium Chepauk Chennai,1481.7,1533.4,1,0,0.429,0.429,0.486,0.514,Gujarat Titans,0.514
+38,2026-04-26,Lucknow Super Giants,Kolkata Knight Riders,Ekana Cricket Stadium Lucknow,1479.6,1489.8,1,0,0.286,0.167,0.55,0.45,Lucknow Super Giants,0.55
+39,2026-04-27,Delhi Capitals,Royal Challengers Bengaluru,Arun Jaitley Stadium Delhi,1500.7,1589.8,1,0,0.429,0.714,0.41,0.59,Royal Challengers Bengaluru,0.59
+40,2026-04-28,Punjab Kings,Rajasthan Royals,Maharaja Yadavindra Singh Stadium Mullanpur,1564.5,1503.4,0,0,1.0,0.625,0.612,0.388,Punjab Kings,0.612
+41,2026-04-29,Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium Mumbai,1488.4,1516.6,1,0,0.286,0.625,0.479,0.521,Sunrisers Hyderabad,0.521
+42,2026-04-30,Gujarat Titans,Royal Challengers Bengaluru,Narendra Modi Stadium Ahmedabad,1533.4,1589.8,1,0,0.429,0.714,0.45,0.55,Royal Challengers Bengaluru,0.55
+43,2026-05-01,Rajasthan Royals,Delhi Capitals,Sawai Mansingh Stadium Jaipur,1503.4,1500.7,1,0,0.625,0.429,0.574,0.426,Rajasthan Royals,0.574
+44,2026-05-02,Chennai Super Kings,Mumbai Indians,MA Chidambaram Stadium Chepauk Chennai,1481.7,1488.4,1,0,0.429,0.286,0.556,0.444,Chennai Super Kings,0.556
+45,2026-05-03,Sunrisers Hyderabad,Kolkata Knight Riders,Rajiv Gandhi International Stadium Hyderabad,1516.6,1489.8,1,0,0.625,0.167,0.625,0.375,Sunrisers Hyderabad,0.625
+46,2026-05-03,Gujarat Titans,Punjab Kings,Narendra Modi Stadium Ahmedabad,1533.4,1564.5,1,0,0.429,1.0,0.459,0.541,Punjab Kings,0.541
+47,2026-05-04,Mumbai Indians,Lucknow Super Giants,Wankhede Stadium Mumbai,1488.4,1479.6,1,0,0.286,0.286,0.559,0.441,Mumbai Indians,0.559
+48,2026-05-05,Delhi Capitals,Chennai Super Kings,Arun Jaitley Stadium Delhi,1500.7,1481.7,1,0,0.429,0.429,0.571,0.429,Delhi Capitals,0.571
+49,2026-05-06,Sunrisers Hyderabad,Punjab Kings,Rajiv Gandhi International Stadium Hyderabad,1516.6,1564.5,1,0,0.625,1.0,0.452,0.548,Punjab Kings,0.548
+50,2026-05-07,Lucknow Super Giants,Royal Challengers Bengaluru,Ekana Cricket Stadium Lucknow,1479.6,1589.8,1,0,0.286,0.714,0.373,0.627,Royal Challengers Bengaluru,0.627
+51,2026-05-08,Delhi Capitals,Kolkata Knight Riders,Arun Jaitley Stadium Delhi,1500.7,1489.8,1,0,0.429,0.167,0.59,0.41,Delhi Capitals,0.59
+52,2026-05-09,Rajasthan Royals,Gujarat Titans,Sawai Mansingh Stadium Jaipur,1503.4,1533.4,1,0,0.625,0.429,0.534,0.466,Rajasthan Royals,0.534
+53,2026-05-10,Chennai Super Kings,Lucknow Super Giants,MA Chidambaram Stadium Chepauk Chennai,1481.7,1479.6,1,0,0.429,0.286,0.567,0.433,Chennai Super Kings,0.567
+54,2026-05-10,Royal Challengers Bengaluru,Mumbai Indians,Nava Raipur Cricket Stadium Nava Raipur,1589.8,1488.4,0,0,0.714,0.286,0.663,0.337,Royal Challengers Bengaluru,0.663
+55,2026-05-11,Punjab Kings,Delhi Capitals,HPCA Cricket Stadium Dharamshala,1564.5,1500.7,0,0,1.0,0.429,0.629,0.371,Punjab Kings,0.629
+56,2026-05-12,Gujarat Titans,Sunrisers Hyderabad,Narendra Modi Stadium Ahmedabad,1533.4,1516.6,1,0,0.429,0.625,0.547,0.453,Gujarat Titans,0.547
+57,2026-05-13,Royal Challengers Bengaluru,Kolkata Knight Riders,Nava Raipur Cricket Stadium Nava Raipur,1589.8,1489.8,0,0,0.714,0.167,0.67,0.33,Royal Challengers Bengaluru,0.67
+58,2026-05-14,Punjab Kings,Mumbai Indians,HPCA Cricket Stadium Dharamshala,1564.5,1488.4,0,0,1.0,0.286,0.651,0.349,Punjab Kings,0.651
+59,2026-05-15,Lucknow Super Giants,Chennai Super Kings,Ekana Cricket Stadium Lucknow,1479.6,1481.7,1,0,0.286,0.429,0.53,0.47,Lucknow Super Giants,0.53
+60,2026-05-16,Kolkata Knight Riders,Gujarat Titans,Eden Gardens Kolkata,1489.8,1533.4,1,0,0.167,0.429,0.468,0.532,Gujarat Titans,0.532
+61,2026-05-17,Punjab Kings,Royal Challengers Bengaluru,HPCA Cricket Stadium Dharamshala,1564.5,1589.8,0,0,1.0,0.714,0.5,0.5,Royal Challengers Bengaluru,0.5
+62,2026-05-17,Delhi Capitals,Rajasthan Royals,Arun Jaitley Stadium Delhi,1500.7,1503.4,1,0,0.429,0.625,0.524,0.476,Delhi Capitals,0.524
+63,2026-05-18,Chennai Super Kings,Sunrisers Hyderabad,MA Chidambaram Stadium Chepauk Chennai,1481.7,1516.6,1,0,0.429,0.625,0.485,0.515,Sunrisers Hyderabad,0.515
+64,2026-05-19,Rajasthan Royals,Lucknow Super Giants,Sawai Mansingh Stadium Jaipur,1503.4,1479.6,1,0,0.625,0.286,0.612,0.388,Rajasthan Royals,0.612
+65,2026-05-20,Kolkata Knight Riders,Mumbai Indians,Eden Gardens Kolkata,1489.8,1488.4,1,0,0.167,0.286,0.537,0.463,Kolkata Knight Riders,0.537
+66,2026-05-21,Gujarat Titans,Chennai Super Kings,Narendra Modi Stadium Ahmedabad,1533.4,1481.7,1,0,0.429,0.429,0.61,0.39,Gujarat Titans,0.61
+67,2026-05-22,Sunrisers Hyderabad,Royal Challengers Bengaluru,Rajiv Gandhi International Stadium Hyderabad,1516.6,1589.8,1,0,0.625,0.714,0.45,0.55,Royal Challengers Bengaluru,0.55
+68,2026-05-23,Lucknow Super Giants,Punjab Kings,Ekana Cricket Stadium Lucknow,1479.6,1564.5,1,0,0.286,1.0,0.386,0.614,Punjab Kings,0.614
+69,2026-05-24,Mumbai Indians,Rajasthan Royals,Wankhede Stadium Mumbai,1488.4,1503.4,1,0,0.286,0.625,0.495,0.505,Rajasthan Royals,0.505
+70,2026-05-24,Kolkata Knight Riders,Delhi Capitals,Eden Gardens Kolkata,1489.8,1500.7,1,0,0.167,0.429,0.508,0.492,Kolkata Knight Riders,0.508
